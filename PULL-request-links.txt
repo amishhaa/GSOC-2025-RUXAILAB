@@ -1,5 +1,4 @@
 PUll Request links:  
-[like this!](https://www.google.com)  
 (open) https://github.com/ruxailab/RUXAILAB/pull/612  
 (open) https://github.com/ruxailab/RUXAILAB/pull/611  
 (open) https://github.com/ruxailab/RUXAILAB/pull/610  
