@@ -1,0 +1,17 @@
+#log files 
+database-debug.log 
+dataconnect-debug.log 
+firestore-debug.log 
+
+#firebase config 
+storage.rules
+remoteconfig
+firestore-rules 
+firebase.json 
+database.rules.json
+apphosting.yaml
+.firebaserc
+firestore-indexes-json
+functions 
+dataconnect 
+.github
