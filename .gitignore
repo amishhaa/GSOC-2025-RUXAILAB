@@ -12,6 +12,5 @@ database.rules.json
 apphosting.yaml
 .firebaserc
 firestore-indexes-json
-functions 
 dataconnect 
 .github
